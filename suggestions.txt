@@ -1,0 +1,3 @@
+suggestion 0001: open
+- adding a firmata simulator for user controlled testing
+

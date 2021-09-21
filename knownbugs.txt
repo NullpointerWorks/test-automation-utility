@@ -1,0 +1,4 @@
+bug 0001: open
+- the close button in class ClosableTabHeader doesn't feel responsive
+
+

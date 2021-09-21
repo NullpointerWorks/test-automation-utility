@@ -1,0 +1,14 @@
+06-09-2021
+- v1.0.0 beta
+- Beta release
+
+08-09-2021
+- v1.0.0
+- Initial release
+
+16-09-2021
+- v1.0.1
+- Adding an accept feature in the custom connection dialog. When pressing return on the name textfield creates the connection, if valid.
+- Accepting a custom connection now automatically selects it in the start screen.
+- Accepting a custom connection also sets focus to the connect button.
+- Starting a test procedure from an unknown relation no longer shows the name "unknown".
